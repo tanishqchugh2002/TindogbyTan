@@ -1,0 +1,178 @@
+
+.oops:hover{
+  color: red;
+}
+
+.oops{
+    text-align: center;
+    font-family:'Dancing Script', cursive;
+    font-size: 40px;
+    word-spacing: 5px;
+    font-weight: bolder;
+}
+#title {
+  background-color: #ff4c68;
+  margin-right: 0px;
+  /* position: absolute; */
+}
+a.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2.5rem;
+  margin-left: 30px;
+  padding-top: 60px;
+  font-weight: bold;
+}
+
+.collapse {
+  font-weight: 200px;
+  font-size: 1.5rem;
+}
+
+.nav-item {
+  margin-top: 30px;
+  padding: 0px 20px;
+  padding-left: 50px;
+}
+.navbar-collapse {
+  padding-right: 100px;
+  text-align: center;
+}
+.icon {
+  width: 4rem;
+  height: 5rem;
+  padding-bottom: 18px;
+  padding-right: 8px;
+}
+.container-fluid {
+  text-align: center;
+  /* padding-bottom: 7%; */
+}
+.rotated {
+  transform: rotate(22deg);
+  width: 300px;
+  position: relative;
+  top: 100px;
+
+}
+.heading {
+  font-family: "Ubuntu", sans-serif;
+  color: #fff;
+  font-size: 4rem;
+  font-weight: bolder;
+}
+.beech {
+  padding: 75px 10px 20px 50px;
+}
+.button {
+  height: 60px;
+  width: 150px;
+  border-radius: 10px;
+}
+.butt {
+  width: 30px;
+  padding-bottom: 5px;
+}
+.divbutton {
+  padding-top: 80px;
+  padding-left: 30px;
+}
+.button1 {
+  background-color: #000;
+  color: #fff;
+  border-color: #fff;
+}
+.button1:hover {
+  background-color: rgb(41, 38, 34);
+}
+.button2 {
+  background-color: #ff4c68;
+}
+.button2:hover {
+  background-color: white;
+}
+#features {
+  padding: 220px 0px 150px 0px;
+  background-color: #fff;
+  position: relative;
+}
+
+.image{
+    width: 100px;
+}
+
+.tan{
+    padding: 0px 150px;
+}
+
+.media{
+  width: 60%;
+  padding: 20px 0px;
+  
+} 
+.testimonial-image{
+  border-radius: 100%;
+  width: 100px;
+  padding: 20px 0px;
+} */
+ #testimonials{
+  
+  color: #fff;
+  font-family: 'Monserat-bold';
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.testimonial-text{
+  font-size: 3rem;
+} 
+ .roo{
+  padding-left: 120px;
+}
+#pricing{
+  text-align: center;
+  
+}
+.hed{
+  font-size: 50px;
+  padding: 20px 0px;
+  font-weight: bolder;
+  
+}
+.chotu{
+  width: 100%;
+}
+@media (max-width:1028px){
+  .rotated{
+    transform: rotate(0);
+    position:static;
+  }
+
+}
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 15%;
+}
+.Find{
+  color: #fff;
+  font-family: 'Monserat-black';
+}
+
+.con{
+  padding: 50px;
+}
+#footer{
+  text-align: center;
+  padding: 7% 15%;
+}
+.fabi{
+  padding: 0 10px;
+}
+.fabi:hover{
+  color: #ff4c68;
+}
+.myname{
+  font-family: 'Sacramento';
+  font-size: 40px;
+}
